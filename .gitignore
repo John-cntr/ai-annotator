@@ -1,0 +1,29 @@
+# Python
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Environment & DB
+.env
+*.sqlite3
+
+# AI Models & Weights
+*.pt
+*.onnx
+*.weights
+
+# Media Files (Fallbacks)
+*.mp4
+*.webm
+*.avi
+
+# Exclude user uploaded and processed videos, but keep the folders
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
+backend/data/outputs/*
+!backend/data/outputs/.gitkeep
+data/uploads/*
+!data/uploads/.gitkeep
+data/outputs/*
+!data/outputs/.gitkeep

@@ -1,0 +1,15 @@
+# Web Framework
+fastapi
+uvicorn
+python-multipart
+
+# AI & Computer Vision
+ultralytics
+opencv-python
+torch
+easyocr
+openai-whisper
+
+# Data & DB
+pandas
+SQLAlchemy

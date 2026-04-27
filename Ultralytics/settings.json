@@ -1,0 +1,21 @@
+{
+  "settings_version": "0.0.6",
+  "datasets_dir": "C:\\Users\\johns\\OneDrive\\Desktop\\vedio anotator\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "cffd3def1fc6c364ce547bcf5d408108a2c00daa0a8593723257940645622396",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "hub": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}
